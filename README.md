@@ -9,7 +9,7 @@ Instructions
 1. Change in the folder src and type ./tic-tac-toe.rb in the console
 2. Follow the instructions to play the game
 
-To run the tests with Rspec: Comment out the last two lines in src/tic-tac-toe.rb (my_game = Game.new & my_game.start). Change back into the root directory of the program and type rspec in the console.
+To run the tests with Rspec: Comment out the last two lines in lib/tic-tac-toe.rb (my_game = Game.new & my_game.start). Change back into the root directory of the program and type rspec in the console.
 
 Discussion
 I used the following technologies: Ruby with classes and methods.
